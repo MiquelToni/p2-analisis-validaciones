@@ -1,0 +1,6 @@
+# ignore data directories
+/data
+
+# ignore file extension
+**.deprecated
+**.zip
