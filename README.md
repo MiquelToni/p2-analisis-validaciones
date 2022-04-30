@@ -2,6 +2,8 @@
 
 author: Miquel Antoni Llambías Cabot
 
+repo: [github](https://github.com/MiquelToni/p2-analisis-validaciones)
+
 ## How to run
 
 1. Install python
